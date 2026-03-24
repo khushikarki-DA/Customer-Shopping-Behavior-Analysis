@@ -1,11 +1,11 @@
 # Customer-Shopping-Behavior-Analysis
-Overview
+# Overview
 
 This project analyzes customer shopping behavior using transactional data across multiple product categories. The goal is to understand customer demographics, spending patterns, and product preferences to support data-driven business decisions.
 
 The analysis was carried out using Python (Pandas) for data cleaning and EDA, MySQL for business queries, and Power BI for interactive dashboard visualization.
 
-Business Problem
+# Business Problem
 
 Businesses often struggle to understand:
 
@@ -16,7 +16,7 @@ Businesses often struggle to understand:
 
 This project aims to solve these challenges by analyzing customer data to uncover actionable insights for improving sales, marketing strategies, and customer retention.
 
-Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 The following KPIs were used to evaluate business performance:
 
@@ -25,7 +25,7 @@ The following KPIs were used to evaluate business performance:
 - Average Purchase Value – Average spending per transaction
 - Customer Count – Total number of customers
 
-Project Description
+# Project Description
 
 This is an end-to-end data analysis project that combines data preprocessing, SQL analysis, and dashboard visualization.
 
